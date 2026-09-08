@@ -6,6 +6,7 @@ import random
 
 rettTall = random.randint(0, 1000)
 
+
 for forsok in range(1, 11):
     gjett = int(input("Gjett et tall mellom 0 og 1000: "))
 
