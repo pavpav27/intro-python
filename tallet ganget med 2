@@ -1,0 +1,4 @@
+def gang_med_to(tall):
+    print(tall * 2)
+
+gang_med_to(5)
